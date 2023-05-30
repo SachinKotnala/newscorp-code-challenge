@@ -1,17 +1,41 @@
-import { Col, Row } from "antd";
+import { Col, Pagination, Row } from "antd";
 
 import ErrorMessage from "../components/shared/ErrorMessage";
 import LoadingMessage from "../components/shared/LoadingMessage";
 import NewsTile from "./NewsTile";
-import {newsData} from "../mockData/news"
+import useFetchNewsList from "../hooks/useFetchNewsList";
+import { useState } from "react";
 
 const NewsList = () => {
-    
+  const pageSize = 12; // Number of items per page
+  const [currentPage, setCurrentPage] = useState(1);
 
-console.log(newsData[0]);
+  const { isLoading, isError, data, error, refetch } = useFetchNewsList(
+    currentPage,
+    pageSize
+  );
+  // Handle page change event
+  const handlePageChange = (page) => {
+    console.log("Page changed:", page);
+    //react query will automatically refetch when current page is changed
+    setCurrentPage(page);
+  };
+  if (isLoading) {
+    return <LoadingMessage />;
+  }
+
+  if (isError) {
+    return (
+      <ErrorMessage error={`News could not be retrieved: ${error.message}`} />
+    );
+  }
+  debugger;
+  // if loading & error are passed - data will be available
+  if (!data) throw new Error("we should not reach this");
+
   return (
     <Row gutter={16} style={{ marginTop: "50px" }}>
-      {newsData.results.map((news) => {
+      {data.result.map((news) => {
         const { date, headline, related, standfirst } = news;
         const thumbnailImages = related.thumbnail.default;
         const firstImageKey = thumbnailImages[0];
@@ -19,7 +43,7 @@ console.log(newsData[0]);
         const link = news.link.canonical;
 
         return (
-          <Col xs={24} sm={12} md={8} style={{ marginTop: "50px" }} key={news.id}>
+          <Col xs={24} sm={12} md={8} style={{ marginTop: "50px" }}>
             <NewsTile
               key={news.id}
               date={date}
@@ -31,6 +55,17 @@ console.log(newsData[0]);
           </Col>
         );
       })}
+      <Pagination
+        current={currentPage}
+        pageSize={pageSize}
+        total={data.totalLength}
+        onChange={handlePageChange}
+        showSizeChanger
+        pageSizeOptions={["5", "10", "20"]}
+        showTotal={(total, range) =>
+          `${range[0]}-${range[1]} of ${total} items`
+        }
+      />
     </Row>
   );
 };

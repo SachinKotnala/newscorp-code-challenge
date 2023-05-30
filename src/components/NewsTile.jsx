@@ -1,4 +1,5 @@
 import { Card } from "antd";
+import { formatDate } from "../utils/formatDate";
 
 const { Meta } = Card;
 
@@ -23,7 +24,7 @@ const NewsTile = ({ id, date, headline, image, standfirst, link }) => {
       >
       <Meta
             title={<div style={{ fontSize: '16px', whiteSpace: 'normal' }}>{headline}</div>}
-            description={`Published on: ${date.live}`}
+            description={`Published on: ${formatDate(date.live)}`}
             style={{ fontSize: '12px' }}
           />
 
