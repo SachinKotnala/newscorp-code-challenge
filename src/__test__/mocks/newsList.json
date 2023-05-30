@@ -1,0 +1,2057 @@
+{
+    "results": [
+      {
+        "id": "7be9c5ee59bc9bf0d88e3cdfb9aec83d",
+        "link": {
+          "self": "https://content.api.news/v3/articles/7be9c5ee59bc9bf0d88e3cdfb9aec83d",
+          "canonical": "https://www.news.com.au/national/nsw-act/courts-law/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+        },
+        "type": "article",
+        "draft": false,
+        "status": "active",
+        "locale": "en_AU",
+        "originalLocale": "en_AU",
+        "platform": {
+          "id": "8451871c-8c26-11eb-92e2-ae03e07d34bc",
+          "instance": "meth01",
+          "system": "methode",
+          "documentId": "5721c52e-2454-4300-aac2-cd22124bc108",
+          "parentId": "8451871c-8c26-11eb-92e2-ae03e07d34bc",
+          "userUpdated": "gleesona",
+          "systemUpdated": "methode",
+          "capiOrigin": "AU"
+        },
+        "date": {
+          "live": "2021-03-23T23:40:00.000Z",
+          "updated": "2021-03-24T05:29:37.000Z",
+          "custom": "2021-03-24T05:29:00.000Z",
+          "created": "2021-03-23T22:24:22.000Z",
+          "processed": "2021-03-24T05:29:46.259Z"
+        },
+        "extendedMetadata": {
+          "newswire-court": {
+            "slugs": "newswire-court"
+          }
+        },
+        "categories": {
+          "other": [
+            {
+              "id": "cf96b13f963292d5038e70c00587c555",
+              "slug": "other-crimelawandjustice-crime-homicide",
+              "path": "/other/crime, law and justice/crime/homicide",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/cf96b13f963292d5038e70c00587c555"
+              }
+            },
+            {
+              "id": "2391ed7bafb03dacb1db9079f2434ea1",
+              "slug": "other-crimelawandjustice-judiciarysystemofjustice",
+              "path": "/other/crime, law and justice/judiciary (system of justice)",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/2391ed7bafb03dacb1db9079f2434ea1"
+              }
+            }
+          ],
+          "tone": [
+            {
+              "id": "f550ac12ee8a06314e9a8ad554f50c24",
+              "slug": "tone-positive",
+              "path": "/tone/positive",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/f550ac12ee8a06314e9a8ad554f50c24"
+              }
+            }
+          ],
+          "person": [
+            {
+              "id": "27419243d89fbdb25540f6f3a816b805",
+              "slug": "person-johnbasten",
+              "path": "/person/John Basten",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 77,
+              "relevancy": 74,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/27419243d89fbdb25540f6f3a816b805"
+              }
+            }
+          ],
+          "rating": [
+            {
+              "id": "ce8d3343701c29e06604299d9da7717f",
+              "slug": "rating-g",
+              "path": "/rating/G",
+              "provider": "methode",
+              "link": {
+                "self": "https://content.api.news/v3/categories/ce8d3343701c29e06604299d9da7717f"
+              }
+            }
+          ],
+          "organisation": [
+            {
+              "id": "a7e1e421080d047b6cff9fd1247734c5",
+              "slug": "organisation-supremecourt",
+              "path": "/organisation/Supreme Court",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 88,
+              "relevancy": 73,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/a7e1e421080d047b6cff9fd1247734c5"
+              }
+            }
+          ],
+          "keyword": [
+            {
+              "id": "aa4c63e3e56388dcaa142ab16d6deac2",
+              "slug": "keyword-newswire-court",
+              "path": "/keyword/newswire-court",
+              "provider": "methode",
+              "providerSource": "editor",
+              "classification": "manual",
+              "link": {
+                "self": "https://content.api.news/v3/categories/aa4c63e3e56388dcaa142ab16d6deac2"
+              }
+            },
+            {
+              "id": "6a2dd6dffca86300128d2d93384ba558",
+              "slug": "keyword-medicaldevelopments",
+              "path": "/keyword/medical developments",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 95,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/6a2dd6dffca86300128d2d93384ba558"
+              }
+            },
+            {
+              "id": "39a123315d7f3fd0c36d751dd4c32136",
+              "slug": "keyword-courtjusticejohn",
+              "path": "/keyword/Court Justice John",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 84,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/39a123315d7f3fd0c36d751dd4c32136"
+              }
+            }
+          ]
+        },
+        "keywords": [
+          "newswire-court",
+          "medical developments",
+          "Supreme Court",
+          "John Basten",
+          "Court Justice John"
+        ],
+        "revision": {
+          "major": 1616563777000,
+          "minor": 0
+        },
+        "rightsMetadata": {
+          "originatedSource": "NCA NewsWire"
+        },
+        "target": {
+          "domainLink": {
+            "news.com.au": {
+              "link": "https://www.news.com.au/national/nsw-act/courts-law/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "theaustralian.com.au": {
+              "link": "https://www.theaustralian.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "themercury.com.au": {
+              "link": "https://www.themercury.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "cairnspost.com.au": {
+              "link": "https://www.cairnspost.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "adelaidenow.com.au": {
+              "link": "https://www.adelaidenow.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "geelongadvertiser.com.au": {
+              "link": "https://www.geelongadvertiser.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "townsvillebulletin.com.au": {
+              "link": "https://www.townsvillebulletin.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "thechronicle.com.au": {
+              "link": "https://www.thechronicle.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "ntnews.com.au": {
+              "link": "https://www.ntnews.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "dailytelegraph.com.au": {
+              "link": "https://www.dailytelegraph.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "weeklytimesnow.com.au": {
+              "link": "https://www.weeklytimesnow.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "goldcoastbulletin.com.au": {
+              "link": "https://www.goldcoastbulletin.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "couriermail.com.au": {
+              "link": "https://www.couriermail.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "heraldsun.com.au": {
+              "link": "https://www.heraldsun.com.au/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            },
+            "perthnow.com.au": {
+              "link": "https://www.perthnow.com.au/news/breaking-news/kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court/news-story/7be9c5ee59bc9bf0d88e3cdfb9aec83d"
+            }
+          },
+          "domains": [
+            "heraldsun.com.au",
+            "themercury.com.au",
+            "adelaidenow.com.au",
+            "goldcoastbulletin.com.au",
+            "dailytelegraph.com.au",
+            "perthnow.com.au",
+            "ntnews.com.au",
+            "news.com.au",
+            "geelongadvertiser.com.au",
+            "theaustralian.com.au",
+            "thechronicle.com.au",
+            "cairnspost.com.au",
+            "weeklytimesnow.com.au",
+            "townsvillebulletin.com.au",
+            "couriermail.com.au"
+          ],
+          "sections": [
+            {
+              "id": "1227585684298",
+              "path": "/section/main/newscorpaustralia.com/Web/NewsNetwork/Network News/National/NSW & ACT/Courts & Law",
+              "slug": "section-main-newscorpaustraliacom-web-newsnetwork-networknews-national-nswact-courtslaw",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227585684298"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "310d0752846bbec11ea74a64fed52659",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/NewsWire",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/310d0752846bbec11ea74a64fed52659"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "1226490816249",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Network News/Breaking News",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226490816249"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "1226501659954",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Network News/Breaking News/National Breaking News",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226501659954"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "1227528026986",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Apple News/NewsComAu/Home",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-applenews-newscomau-home",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227528026986"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "1227585635222",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Network News/National/NSW & ACT/Crime",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-networknews-national-nswact-crime",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227585635222"
+              },
+              "domain": "NewsNetwork"
+            }
+          ],
+          "displays": [
+            {
+              "id": "1227585310836",
+              "path": "/display/news.com.au/National News/NSW/NSW ACT COURTS LAW",
+              "slug": "display-newscomau-nationalnews-nsw-nswactcourtslaw",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227585310836"
+              },
+              "dominant": true,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "304b3f1f7caaa90924aa0c85187cdbc5",
+              "path": "/display/theaustralian.com.au/NewsWire",
+              "slug": "display-theaustraliancomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/304b3f1f7caaa90924aa0c85187cdbc5"
+              },
+              "dominant": true,
+              "domain": "theaustralian.com.au"
+            },
+            {
+              "id": "482858792023be8016800557dbee4c7b",
+              "path": "/display/themercury.com.au/NewsWire",
+              "slug": "display-themercurycomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/482858792023be8016800557dbee4c7b"
+              },
+              "dominant": true,
+              "domain": "themercury.com.au"
+            },
+            {
+              "id": "4c6133b20df74c2a99ee2a8d07f2a90a",
+              "path": "/display/cairnspost.com.au/NewsWire",
+              "slug": "display-cairnspostcomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/4c6133b20df74c2a99ee2a8d07f2a90a"
+              },
+              "dominant": true,
+              "domain": "cairnspost.com.au"
+            },
+            {
+              "id": "7b694efe1a8c5067d9422dee496635b9",
+              "path": "/display/adelaidenow.com.au/NewsWire",
+              "slug": "display-adelaidenowcomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/7b694efe1a8c5067d9422dee496635b9"
+              },
+              "dominant": true,
+              "domain": "adelaidenow.com.au"
+            },
+            {
+              "id": "89caf13177dfa4011d52168b31aaa0c4",
+              "path": "/display/geelongadvertiser.com.au/NewsWire",
+              "slug": "display-geelongadvertisercomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/89caf13177dfa4011d52168b31aaa0c4"
+              },
+              "dominant": true,
+              "domain": "geelongadvertiser.com.au"
+            },
+            {
+              "id": "9639f43b9cb38b1b144f5e51b85307d7",
+              "path": "/display/townsvillebulletin.com.au/NewsWire",
+              "slug": "display-townsvillebulletincomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/9639f43b9cb38b1b144f5e51b85307d7"
+              },
+              "dominant": true,
+              "domain": "townsvillebulletin.com.au"
+            },
+            {
+              "id": "9762b0ee172a44faaf1fa441268b7e83",
+              "path": "/display/thechronicle.com.au/NewsWire",
+              "slug": "display-thechroniclecomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/9762b0ee172a44faaf1fa441268b7e83"
+              },
+              "dominant": true,
+              "domain": "thechronicle.com.au"
+            },
+            {
+              "id": "af14cd0de2605dc930ecf1b6a95627ca",
+              "path": "/display/ntnews.com.au/NewsWire",
+              "slug": "display-ntnewscomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/af14cd0de2605dc930ecf1b6a95627ca"
+              },
+              "dominant": true,
+              "domain": "ntnews.com.au"
+            },
+            {
+              "id": "c3496fcf0c1f86bc9572ae1e41d8f241",
+              "path": "/display/dailytelegraph.com.au/NewsWire",
+              "slug": "display-dailytelegraphcomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/c3496fcf0c1f86bc9572ae1e41d8f241"
+              },
+              "dominant": true,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "c473f5fb9aefb836517ba7b4f8e1903f",
+              "path": "/display/weeklytimesnow.com.au/NewsWire",
+              "slug": "display-weeklytimesnowcomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/c473f5fb9aefb836517ba7b4f8e1903f"
+              },
+              "dominant": true,
+              "domain": "weeklytimesnow.com.au"
+            },
+            {
+              "id": "c62d2cfcd2c14a358b5b2ece1db41408",
+              "path": "/display/goldcoastbulletin.com.au/NewsWire",
+              "slug": "display-goldcoastbulletincomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/c62d2cfcd2c14a358b5b2ece1db41408"
+              },
+              "dominant": true,
+              "domain": "goldcoastbulletin.com.au"
+            },
+            {
+              "id": "c6a69e7cdcbd0376ef150e8cafa68cd7",
+              "path": "/display/couriermail.com.au/NewsWire",
+              "slug": "display-couriermailcomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/c6a69e7cdcbd0376ef150e8cafa68cd7"
+              },
+              "dominant": true,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "cd48aacf1c76ab74dfee8fd72734a2ae",
+              "path": "/display/heraldsun.com.au/NewsWire",
+              "slug": "display-heraldsuncomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/cd48aacf1c76ab74dfee8fd72734a2ae"
+              },
+              "dominant": true,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "1226603196478",
+              "path": "/display/perthnow.com.au/Network News/Breaking News",
+              "slug": "display-perthnowcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226603196478"
+              },
+              "dominant": true,
+              "domain": "perthnow.com.au"
+            },
+            {
+              "id": "1226618420023",
+              "path": "/display/dailytelegraph.com.au/Network News/Breaking News",
+              "slug": "display-dailytelegraphcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226618420023"
+              },
+              "dominant": false,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "1226618420331",
+              "path": "/display/dailytelegraph.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-dailytelegraphcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226618420331"
+              },
+              "dominant": false,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "1226696900205",
+              "path": "/display/townsvillebulletin.com.au/Network News/Breaking News",
+              "slug": "display-townsvillebulletincomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696900205"
+              },
+              "dominant": false,
+              "domain": "townsvillebulletin.com.au"
+            },
+            {
+              "id": "1226696902794",
+              "path": "/display/townsvillebulletin.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-townsvillebulletincomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902794"
+              },
+              "dominant": false,
+              "domain": "townsvillebulletin.com.au"
+            },
+            {
+              "id": "160df846eb37acb5cc5cbe313af60337",
+              "path": "/display/news.com.au/NewsWire",
+              "slug": "display-newscomau-newswire",
+              "link": {
+                "self": "https://content.api.news/v3/sections/160df846eb37acb5cc5cbe313af60337"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1111112060472",
+              "path": "/display/news.com.au/Breaking News",
+              "slug": "display-newscomau-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1111112060472"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1111112060481",
+              "path": "/display/news.com.au/Breaking News/National Breaking News",
+              "slug": "display-newscomau-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1111112060481"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1227585325529",
+              "path": "/display/news.com.au/National News/NSW/NSW ACT CRIME",
+              "slug": "display-newscomau-nationalnews-nsw-nswactcrime",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227585325529"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1226692469164",
+              "path": "/display/goldcoastbulletin.com.au/Network News/Breaking News",
+              "slug": "display-goldcoastbulletincomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226692469164"
+              },
+              "dominant": false,
+              "domain": "goldcoastbulletin.com.au"
+            },
+            {
+              "id": "1226696902796",
+              "path": "/display/goldcoastbulletin.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-goldcoastbulletincomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902796"
+              },
+              "dominant": false,
+              "domain": "goldcoastbulletin.com.au"
+            },
+            {
+              "id": "1226646724509",
+              "path": "/display/couriermail.com.au/Network News/Breaking News",
+              "slug": "display-couriermailcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226646724509"
+              },
+              "dominant": false,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "1226646726603",
+              "path": "/display/couriermail.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-couriermailcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226646726603"
+              },
+              "dominant": false,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "1226696900208",
+              "path": "/display/ntnews.com.au/Network News/Breaking News",
+              "slug": "display-ntnewscomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696900208"
+              },
+              "dominant": false,
+              "domain": "ntnews.com.au"
+            },
+            {
+              "id": "1226696902795",
+              "path": "/display/ntnews.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-ntnewscomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902795"
+              },
+              "dominant": false,
+              "domain": "ntnews.com.au"
+            },
+            {
+              "id": "1226696900207",
+              "path": "/display/weeklytimesnow.com.au/Network News/Breaking News",
+              "slug": "display-weeklytimesnowcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696900207"
+              },
+              "dominant": false,
+              "domain": "weeklytimesnow.com.au"
+            },
+            {
+              "id": "1226696902792",
+              "path": "/display/weeklytimesnow.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-weeklytimesnowcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902792"
+              },
+              "dominant": false,
+              "domain": "weeklytimesnow.com.au"
+            },
+            {
+              "id": "1226683746404",
+              "path": "/display/themercury.com.au/Network News/Breaking News",
+              "slug": "display-themercurycomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226683746404"
+              },
+              "dominant": false,
+              "domain": "themercury.com.au"
+            },
+            {
+              "id": "1226688066027",
+              "path": "/display/themercury.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-themercurycomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226688066027"
+              },
+              "dominant": false,
+              "domain": "themercury.com.au"
+            },
+            {
+              "id": "1226696900209",
+              "path": "/display/geelongadvertiser.com.au/Network News/Breaking News",
+              "slug": "display-geelongadvertisercomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696900209"
+              },
+              "dominant": false,
+              "domain": "geelongadvertiser.com.au"
+            },
+            {
+              "id": "1226696902791",
+              "path": "/display/geelongadvertiser.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-geelongadvertisercomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902791"
+              },
+              "dominant": false,
+              "domain": "geelongadvertiser.com.au"
+            },
+            {
+              "id": "a0f81c9879c22a5afc76d12aabd57d1a",
+              "path": "/display/thechronicle.com.au/Network News/Breaking News",
+              "slug": "display-thechroniclecomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/a0f81c9879c22a5afc76d12aabd57d1a"
+              },
+              "dominant": false,
+              "domain": "thechronicle.com.au"
+            },
+            {
+              "id": "1f622ad4c6a5fadc64dafb2c94682611",
+              "path": "/display/thechronicle.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-thechroniclecomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1f622ad4c6a5fadc64dafb2c94682611"
+              },
+              "dominant": false,
+              "domain": "thechronicle.com.au"
+            },
+            {
+              "id": "1226603196680",
+              "path": "/display/perthnow.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-perthnowcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226603196680"
+              },
+              "dominant": false,
+              "domain": "perthnow.com.au"
+            },
+            {
+              "id": "1226696900206",
+              "path": "/display/cairnspost.com.au/Network News/Breaking News",
+              "slug": "display-cairnspostcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696900206"
+              },
+              "dominant": false,
+              "domain": "cairnspost.com.au"
+            },
+            {
+              "id": "1226696902793",
+              "path": "/display/cairnspost.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-cairnspostcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226696902793"
+              },
+              "dominant": false,
+              "domain": "cairnspost.com.au"
+            },
+            {
+              "id": "1226618420022",
+              "path": "/display/heraldsun.com.au/Network News/Breaking News",
+              "slug": "display-heraldsuncomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226618420022"
+              },
+              "dominant": false,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "1226618420332",
+              "path": "/display/heraldsun.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-heraldsuncomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226618420332"
+              },
+              "dominant": false,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "1225733252758",
+              "path": "/display/theaustralian.com.au/News/Breaking News",
+              "slug": "display-theaustraliancomau-news-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1225733252758"
+              },
+              "dominant": false,
+              "domain": "theaustralian.com.au"
+            },
+            {
+              "id": "1225733252846",
+              "path": "/display/theaustralian.com.au/News/Breaking News/National Breaking News",
+              "slug": "display-theaustraliancomau-news-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1225733252846"
+              },
+              "dominant": false,
+              "domain": "theaustralian.com.au"
+            },
+            {
+              "id": "1226628349712",
+              "path": "/display/adelaidenow.com.au/Network News/Breaking News",
+              "slug": "display-adelaidenowcomau-networknews-breakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226628349712"
+              },
+              "dominant": false,
+              "domain": "adelaidenow.com.au"
+            },
+            {
+              "id": "1226628351022",
+              "path": "/display/adelaidenow.com.au/Network News/Breaking News/National Breaking News",
+              "slug": "display-adelaidenowcomau-networknews-breakingnews-nationalbreakingnews",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226628351022"
+              },
+              "dominant": false,
+              "domain": "adelaidenow.com.au"
+            }
+          ],
+          "urlTitle": "kathleen-folbiggs-lastditch-bid-to-contest-convictions-for-killing-kids-knocked-back-by-court"
+        },
+        "authors": [
+          {
+            "link": {
+              "self": "https://content.api.news/v3/authors/7a41141a2d3a1f5032b9b5e476fb6a5c"
+            },
+            "name": "Lane Sainty",
+            "providerId": "vrFJGFt9rZ6s4wsTZznf",
+            "profileId": "7a41141a2d3a1f5032b9b5e476fb6a5c",
+            "email": "lane.sainty@news.com.au",
+            "type": "author"
+          }
+        ],
+        "accessType": "free",
+        "channel": "none",
+        "autoTranslate": false,
+        "headline": {
+          "default": "Notorious serial baby killer learns fate"
+        },
+        "standfirst": {
+          "default": "<p>Weeks after 90 experts pleaded for convicted baby killer Kathleen Folbigg to be pardoned, a court has ruled on her latest appeal bid.</p>"
+        },
+        "related": {
+          "thumbnail": {
+            "default": [
+              "4bab76b3a24f7c06197c04766e702ca4",
+              "d96dcf46deebea003e11df830017d0d6",
+              "73822a773ddb4ca92c9967b5394fb079",
+              "8b4fc5b2c77e87e7177888f4f403a39a",
+              "289cff0d1d0b30993c26cf2320fe0bf8",
+              "4ce85decf66b7237a289e753e2f2a59e"
+            ]
+          },
+          "primary": {
+            "default": [
+              "9d46c114104d608cd31efc481a68c90d",
+              "b3a468b97a56afaac621016daec770f6"
+            ]
+          }
+        },
+        "references": {
+          "4bab76b3a24f7c06197c04766e702ca4": {
+            "id": "4bab76b3a24f7c06197c04766e702ca4",
+            "type": "image",
+            "aspectRatio": "4:3",
+            "width": 100,
+            "height": 75,
+            "link": {
+              "self": "https://content.api.news/v3/images/4bab76b3a24f7c06197c04766e702ca4",
+              "media": "https://content.api.news/v3/images/bin/4bab76b3a24f7c06197c04766e702ca4"
+            }
+          },
+          "d96dcf46deebea003e11df830017d0d6": {
+            "id": "d96dcf46deebea003e11df830017d0d6",
+            "type": "image",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/d96dcf46deebea003e11df830017d0d6",
+              "media": "https://content.api.news/v3/images/bin/d96dcf46deebea003e11df830017d0d6"
+            }
+          },
+          "73822a773ddb4ca92c9967b5394fb079": {
+            "id": "73822a773ddb4ca92c9967b5394fb079",
+            "type": "image",
+            "aspectRatio": "3:4",
+            "width": 768,
+            "height": 1024,
+            "link": {
+              "self": "https://content.api.news/v3/images/73822a773ddb4ca92c9967b5394fb079",
+              "media": "https://content.api.news/v3/images/bin/73822a773ddb4ca92c9967b5394fb079"
+            }
+          },
+          "8b4fc5b2c77e87e7177888f4f403a39a": {
+            "id": "8b4fc5b2c77e87e7177888f4f403a39a",
+            "type": "image",
+            "aspectRatio": "16:9",
+            "width": 1280,
+            "height": 720,
+            "link": {
+              "self": "https://content.api.news/v3/images/8b4fc5b2c77e87e7177888f4f403a39a",
+              "media": "https://content.api.news/v3/images/bin/8b4fc5b2c77e87e7177888f4f403a39a"
+            }
+          },
+          "289cff0d1d0b30993c26cf2320fe0bf8": {
+            "id": "289cff0d1d0b30993c26cf2320fe0bf8",
+            "type": "image",
+            "aspectRatio": "21:9",
+            "width": 1900,
+            "height": 815,
+            "link": {
+              "self": "https://content.api.news/v3/images/289cff0d1d0b30993c26cf2320fe0bf8",
+              "media": "https://content.api.news/v3/images/bin/289cff0d1d0b30993c26cf2320fe0bf8"
+            }
+          },
+          "4ce85decf66b7237a289e753e2f2a59e": {
+            "id": "4ce85decf66b7237a289e753e2f2a59e",
+            "type": "image",
+            "aspectRatio": "16:9",
+            "width": 149,
+            "height": 86,
+            "link": {
+              "self": "https://content.api.news/v3/images/4ce85decf66b7237a289e753e2f2a59e",
+              "media": "https://content.api.news/v3/images/bin/4ce85decf66b7237a289e753e2f2a59e"
+            }
+          },
+          "9d46c114104d608cd31efc481a68c90d": {
+            "id": "9d46c114104d608cd31efc481a68c90d",
+            "type": "image",
+            "captionOverride": "Kathleen Folbigg was convicted of killing her four children Patrick, Sarah, Laura and Caleb in 2003. Picture: AAP Image/Danny Casey",
+            "aspectRatio": "16:9",
+            "width": 1280,
+            "height": 720,
+            "link": {
+              "self": "https://content.api.news/v3/images/9d46c114104d608cd31efc481a68c90d",
+              "media": "https://content.api.news/v3/images/bin/9d46c114104d608cd31efc481a68c90d"
+            }
+          },
+          "b3a468b97a56afaac621016daec770f6": {
+            "id": "b3a468b97a56afaac621016daec770f6",
+            "type": "video",
+            "captionOverride": "Kathleen Folbigg is Australia’s worst female serial killer, found guilty of killing her four infant children. Can an inquiry into her conviction change everything?",
+            "titleOverride": "Kathleen Folbigg inquiry: Serial baby killer's damning diaries",
+            "link": {
+              "self": "https://content.api.news/v3/videos/b3a468b97a56afaac621016daec770f6"
+            }
+          },
+          "7d3b124657263b3832766082ff35415f": {
+            "id": "7d3b124657263b3832766082ff35415f",
+            "type": "image",
+            "captionOverride": "Folbigg’s supporters say new medical evidence suggests Sarah (pictured) and her siblings died from natural causes.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/7d3b124657263b3832766082ff35415f",
+              "media": "https://content.api.news/v3/images/bin/7d3b124657263b3832766082ff35415f"
+            }
+          },
+          "2845a2d3c23307380bcf6c868d0690fe": {
+            "id": "2845a2d3c23307380bcf6c868d0690fe",
+            "type": "image",
+            "captionOverride": "Folbigg will be in prison for 18 years this year and maintains her innocence over the deaths of Patrick (pictured) and her other children.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/2845a2d3c23307380bcf6c868d0690fe",
+              "media": "https://content.api.news/v3/images/bin/2845a2d3c23307380bcf6c868d0690fe"
+            }
+          },
+          "6bab900f762bde250c61df5597e2b8e1": {
+            "id": "6bab900f762bde250c61df5597e2b8e1",
+            "type": "image",
+            "captionOverride": "Caleb Folbigg was just 19 days old when he died in February 1989.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/6bab900f762bde250c61df5597e2b8e1",
+              "media": "https://content.api.news/v3/images/bin/6bab900f762bde250c61df5597e2b8e1"
+            }
+          },
+          "4fca4e079e4279639f6a00ac09aba0f6": {
+            "id": "4fca4e079e4279639f6a00ac09aba0f6",
+            "type": "custom",
+            "subtype": "html",
+            "captionOverride": "LIFE AND TIMES OF KATHLEEN FOLBIGG",
+            "link": {
+              "self": "https://content.api.news/v3/customs/4fca4e079e4279639f6a00ac09aba0f6"
+            }
+          },
+          "077ccc1e6b166feb7b95ee1adac4da7c": {
+            "id": "077ccc1e6b166feb7b95ee1adac4da7c",
+            "type": "image",
+            "captionOverride": "Laura (pictured) and Sarah Folbigg had a genetic abnormality that some experts say could have been the real cause of their death.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/077ccc1e6b166feb7b95ee1adac4da7c",
+              "media": "https://content.api.news/v3/images/bin/077ccc1e6b166feb7b95ee1adac4da7c"
+            }
+          },
+          "2b02af29e9dd848def89aa35017cadf3": {
+            "id": "2b02af29e9dd848def89aa35017cadf3",
+            "type": "image",
+            "captionOverride": "Kathleen Folbigg appears via video link during a convictions inquiry. Picture: AAP",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/2b02af29e9dd848def89aa35017cadf3",
+              "media": "https://content.api.news/v3/images/bin/2b02af29e9dd848def89aa35017cadf3"
+            }
+          }
+        },
+        "byline": {
+          "default": "Lane Sainty"
+        },
+        "kicker": {
+          "default": "Updated"
+        },
+        "intro": {
+          "default": "<p>Kathleen Folbigg, convicted of killing her four infant children, has lost a bid to throw out the findings of a 2019 inquiry that concluded her guilt was reinforced, not diminished, by a review of the evidence.</p>"
+        },
+        "seoOwner": {
+          "displayName": "news.com.au",
+          "domain": "news.com.au"
+        },
+        "seoTitle": "Kathleen Folbigg appeal rejected: NSW court upholds finding no reasonable doubt mother killed her four children",
+        "socialHeadline": {
+          "default": "Notorious serial baby killer learns fate"
+        },
+        "commentsAllowed": {
+          "default": false
+        },
+        "commentsShown": {
+          "default": false
+        },
+        "body": {
+          "default": "<p>Retired District Court judge Reginald Blanch made no legal errors and had ample evidence to find no cloud of reasonable doubt hung over the 2003 convictions, the NSW Court of Appeal ruled on Wednesday.</p><p>Folbigg, appearing via video link from prison, did not react as the latest bid to fight her convictions for smothering her children was knocked back in a matter of seconds.</p><p><a class=\"capi-image\" capiid=\"6bab900f762bde250c61df5597e2b8e1\"></a></p><p>She has been imprisoned for 18 years and  maintains her innocence, with an increasingly prominent group of people arguing she has been the victim of an extraordinary miscarriage of justice.</p><p>The latest court blow comes just weeks after a group of 90 people, eminent scientists and doctors among them, petitioned NSW Governor Margaret Beazley to pardon Folbigg based on new medical evidence suggesting her two daughters may have died of natural causes.</p><p>Folbigg was convicted in 2003 of murdering her babies Patrick, Sarah and Laura and of the manslaughter of her 19-day-old son Caleb in four separate incidents  over a decade, starting in 1989.</p><p channel=\"Web,Tablet\"><a class=\"capi-image\" capiid=\"2b02af29e9dd848def89aa35017cadf3\"></a></p><p>Diary entries in which she expressed guilt and anguish over her children’s deaths and her frustrations and struggles with parenting were a key plank of the prosecution case.</p><p channel=\"Web,Tablet\"><a capiid=\"4fca4e079e4279639f6a00ac09aba0f6\" class=\"capi-webframe\">LIFE AND TIMES OF KATHLEEN FOLBIGG</a>In 2019 former District Court judge Reginald Blanch heard an inquiry into Folbigg’s convictions, ordered by NSW Attorney-General Mark Speakman.</p><p>After considering whether new medical developments pointed to Folbigg’s exoneration, Mr Blanch concluded the inquiry reinforced her guilt.</p><p>Folbigg then asked the Court of Appeal to review Mr Blanch’s findings, arguing he had made several errors.</p><p>Justices John Basten, Mark Leeming and Paul Brereton upheld Mr Blanch’s findings on Wednesday, ordering Folbigg to pay costs.</p><p><a class=\"capi-image\" capiid=\"077ccc1e6b166feb7b95ee1adac4da7c\"></a></p><p>The scientific evidence about a genetic abnormality carried by Folbigg, Sarah and Laura was not at odds with the inquiry’s conclusions, they wrote.</p><p>The evidence raised the “theoretical possibility that there were innocent explanations for the deaths of the two girls”, they wrote. </p><p>But it had to be considered against other evidence suggesting the deaths of the two girls were “outliers”, not comparable to other deaths linked to the genetic mutation.</p><p><a class=\"capi-image\" capiid=\"2845a2d3c23307380bcf6c868d0690fe\"></a></p><p>The scientific evidence and Folbigg’s diary entries, taken together, provided an “ample basis” for Mr Blanch to conclude there was no reasonable doubt hanging over Folbigg’s guilt.</p><p>The judges noted their job was only to consider if any legal errors were made in the inquiry, not to determine Folbigg’s guilt.</p><p>The petition for Folbigg’s pardon sent to Governor Beazley earlier this month argues that Mr Blanch’s findings “run counter to the scientific and medical evidence that now exists”.</p><p><a class=\"capi-image\" capiid=\"7d3b124657263b3832766082ff35415f\"></a></p><p>It states new medical evidence “creates a strong presumption that the Folbigg children died of natural causes”, which should only be usurped by “overwhelming evidence” to the contrary.</p><p>The petition states Folbigg’s case “establishes a dangerous precedent as it means that cogent medical and scientific evidence can simply be ignored in preference to subjective interpretations of circumstantial evidence”.</p><p>Mr Speakman has said he would give the petition “appropriate consideration”.</p>"
+        },
+        "extendedHeadline": {
+          "default": "Appeal court knocks back Kathleen Folbigg’s latest bid to contest convictions for killing kids"
+        },
+        "schemaVersion": "v3.0"
+      },
+      {
+        "id": "e741f65b841264343046d5dc4cc76acf",
+        "link": {
+          "self": "https://content.api.news/v3/articles/e741f65b841264343046d5dc4cc76acf",
+          "canonical": "https://www.news.com.au/sport/boxing/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+        },
+        "type": "article",
+        "draft": false,
+        "status": "active",
+        "locale": "en_AU",
+        "originalLocale": "en_AU",
+        "platform": {
+          "id": "5fead7ea-8c5b-11eb-bee6-3509e93a372d",
+          "instance": "meth01",
+          "system": "methode",
+          "documentId": "d87c8948-0ca4-4154-a364-e25efd2a3733",
+          "parentId": "5fead7ea-8c5b-11eb-bee6-3509e93a372d",
+          "userUpdated": "savagen",
+          "systemUpdated": "methode",
+          "capiOrigin": "AU"
+        },
+        "date": {
+          "live": "2021-03-24T05:16:00.000Z",
+          "updated": "2021-03-24T05:28:36.000Z",
+          "custom": "2021-03-24T05:28:00.000Z",
+          "created": "2021-03-24T04:42:44.000Z",
+          "processed": "2021-03-24T05:28:44.488Z"
+        },
+        "categories": {
+          "other": [
+            {
+              "id": "9f84d9fd3da5d0ca4585e2e26102d809",
+              "slug": "other-sport-boxing",
+              "path": "/other/sport/boxing",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/9f84d9fd3da5d0ca4585e2e26102d809"
+              }
+            },
+            {
+              "id": "28e3bde6753dd361f92c1dcb1befbc82",
+              "slug": "other-sport-rugbyleague",
+              "path": "/other/sport/rugby league",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/28e3bde6753dd361f92c1dcb1befbc82"
+              }
+            },
+            {
+              "id": "9a8e2f64c95116e6c758d621cb0c1e7d",
+              "slug": "other-religionandbelief-islam",
+              "path": "/other/religion and belief/islam",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/9a8e2f64c95116e6c758d621cb0c1e7d"
+              }
+            }
+          ],
+          "tone": [
+            {
+              "id": "2b92bbcd8ac165bd7568b9ba41ca993c",
+              "slug": "tone-negative",
+              "path": "/tone/negative",
+              "provider": "methode",
+              "providerSource": "otca",
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/2b92bbcd8ac165bd7568b9ba41ca993c"
+              }
+            }
+          ],
+          "person": [
+            {
+              "id": "908686bca4cbbc08a6c467e22d703e3f",
+              "slug": "person-stangrant",
+              "path": "/person/Stan Grant",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 79,
+              "relevancy": 44,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/908686bca4cbbc08a6c467e22d703e3f"
+              }
+            },
+            {
+              "id": "4da03bf086f211f0e59f2ffd015cfd83",
+              "slug": "person-kellyslater",
+              "path": "/person/Kelly Slater",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 79,
+              "relevancy": 57,
+              "frequency": 2,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/4da03bf086f211f0e59f2ffd015cfd83"
+              }
+            },
+            {
+              "id": "e844f3d1cfecb667efc0638e6a250a21",
+              "slug": "person-justinlanger",
+              "path": "/person/Justin Langer",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 78,
+              "relevancy": 44,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/e844f3d1cfecb667efc0638e6a250a21"
+              }
+            },
+            {
+              "id": "4d54249e312377900de2d0f06a4cb392",
+              "slug": "person-anthonymundine",
+              "path": "/person/Anthony Mundine",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 75,
+              "relevancy": 97,
+              "frequency": 20,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/4d54249e312377900de2d0f06a4cb392"
+              }
+            },
+            {
+              "id": "a44a9d767e936e49b76e8aaacad40835",
+              "slug": "person-australianmichaelzerafa",
+              "path": "/person/Australian Michael Zerafa",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 72,
+              "relevancy": 51,
+              "frequency": 2,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/a44a9d767e936e49b76e8aaacad40835"
+              }
+            }
+          ],
+          "rating": [
+            {
+              "id": "ce8d3343701c29e06604299d9da7717f",
+              "slug": "rating-g",
+              "path": "/rating/G",
+              "provider": "methode",
+              "link": {
+                "self": "https://content.api.news/v3/categories/ce8d3343701c29e06604299d9da7717f"
+              }
+            }
+          ],
+          "location": [
+            {
+              "id": "109d71337285f2f4e476d39985b85f45",
+              "slug": "location-oceania-nosubcontinent-australiaandnewzealand-australia-newsouthwales-nosuburb-nosublocation",
+              "path": "/location/Oceania/NOSUBCONTINENT/Australia and New Zealand/Australia/New South Wales/NOSUBURB/NOSUBLOCATION",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 86,
+              "relevancy": 40,
+              "frequency": 1,
+              "classification": "auto",
+              "continent": "Oceania",
+              "country": "Australia",
+              "state": "New South Wales",
+              "link": {
+                "self": "https://content.api.news/v3/categories/109d71337285f2f4e476d39985b85f45"
+              }
+            },
+            {
+              "id": "1aa3a379b1d02639b4e25c4bbdd35a9b",
+              "slug": "location-oceania-nosubcontinent-australiaandnewzealand-australia-newsouthwales-sydney-nosublocation",
+              "path": "/location/Oceania/NOSUBCONTINENT/Australia and New Zealand/Australia/New South Wales/Sydney/NOSUBLOCATION",
+              "provider": "methode",
+              "providerSource": "otca",
+              "confidence": 77,
+              "relevancy": 59,
+              "frequency": 1,
+              "geoPoint": {
+                "lat": -33.867778,
+                "lon": 151.207222
+              },
+              "classification": "auto",
+              "continent": "Oceania",
+              "country": "Australia",
+              "state": "New South Wales",
+              "suburb": "Sydney",
+              "link": {
+                "self": "https://content.api.news/v3/categories/1aa3a379b1d02639b4e25c4bbdd35a9b"
+              }
+            }
+          ],
+          "keyword": [
+            {
+              "id": "ce3e6843deb3935a3cb395b64e285a4b",
+              "slug": "keyword-australiansporting",
+              "path": "/keyword/Australian sporting",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 97,
+              "frequency": 3,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/ce3e6843deb3935a3cb395b64e285a4b"
+              }
+            },
+            {
+              "id": "3b6c1b9702b102fbfeae42b99c6a08cf",
+              "slug": "keyword-pressconference",
+              "path": "/keyword/press conference",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 96,
+              "frequency": 3,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/3b6c1b9702b102fbfeae42b99c6a08cf"
+              }
+            },
+            {
+              "id": "aae63a11e1d6ad0f02c47f4f73c27d33",
+              "slug": "keyword-terroristattacks",
+              "path": "/keyword/terrorist attacks",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 95,
+              "frequency": 2,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/aae63a11e1d6ad0f02c47f4f73c27d33"
+              }
+            },
+            {
+              "id": "a4062697e8ee040e23d4d5621c5ab9da",
+              "slug": "keyword-shockapology",
+              "path": "/keyword/shock apology",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 93,
+              "frequency": 2,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/a4062697e8ee040e23d4d5621c5ab9da"
+              }
+            },
+            {
+              "id": "5a7cf9ae1f2b3cab0df22233ec9d99b9",
+              "slug": "keyword-boxingnews",
+              "path": "/keyword/Boxing news",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 92,
+              "frequency": 2,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/5a7cf9ae1f2b3cab0df22233ec9d99b9"
+              }
+            },
+            {
+              "id": "589ac87eca0205f2323af380b03ef478",
+              "slug": "keyword-australiansportingicons",
+              "path": "/keyword/Australian sporting icons",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 91,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/589ac87eca0205f2323af380b03ef478"
+              }
+            },
+            {
+              "id": "a5005c09d1ac72edb8b4b150b5306bf3",
+              "slug": "keyword-pressconferenceboxing",
+              "path": "/keyword/press conferenceBoxing",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 89,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/a5005c09d1ac72edb8b4b150b5306bf3"
+              }
+            },
+            {
+              "id": "fff9f1baf59e172636e0a2f576bed1e5",
+              "slug": "keyword-retirementpressconference",
+              "path": "/keyword/retirement press conference",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 87,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/fff9f1baf59e172636e0a2f576bed1e5"
+              }
+            },
+            {
+              "id": "b6942d96de6d7ff5417253ae77b89ab1",
+              "slug": "keyword-winningworldtitles",
+              "path": "/keyword/winning world titles",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 86,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/b6942d96de6d7ff5417253ae77b89ab1"
+              }
+            },
+            {
+              "id": "b80e2fc9611445f7e321a6207b45423b",
+              "slug": "keyword-heartfeltpressconference",
+              "path": "/keyword/heartfelt press conference",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 85,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/b80e2fc9611445f7e321a6207b45423b"
+              }
+            },
+            {
+              "id": "1f83764cbab854c3bd9ace71d1718b86",
+              "slug": "keyword-sportingendeavour",
+              "path": "/keyword/sporting endeavour",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 84,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/1f83764cbab854c3bd9ace71d1718b86"
+              }
+            },
+            {
+              "id": "1e5a0fa712e24652eb557c6f802d2aa1",
+              "slug": "keyword-surfinglegend",
+              "path": "/keyword/surfing legend",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 83,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/1e5a0fa712e24652eb557c6f802d2aa1"
+              }
+            },
+            {
+              "id": "ac26fa52701866d8f57263ca567cec9a",
+              "slug": "keyword-short-livedrugbyleague",
+              "path": "/keyword/short-lived rugby league",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 80,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/ac26fa52701866d8f57263ca567cec9a"
+              }
+            },
+            {
+              "id": "4b4299a0270db9e577e67c434b1030f5",
+              "slug": "keyword-mediacall",
+              "path": "/keyword/media call",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 78,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/4b4299a0270db9e577e67c434b1030f5"
+              }
+            },
+            {
+              "id": "27cb780b3971c3d6b11e7ca7f6147283",
+              "slug": "keyword-mobilephone",
+              "path": "/keyword/mobile phone",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 75,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/27cb780b3971c3d6b11e7ca7f6147283"
+              }
+            },
+            {
+              "id": "62145db31a227cf1a9b46d633d7dc61f",
+              "slug": "keyword-two-sportsensation",
+              "path": "/keyword/two-sport sensation",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 73,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/62145db31a227cf1a9b46d633d7dc61f"
+              }
+            },
+            {
+              "id": "5d973c5fcb47f6ddfe654d84a9b6e572",
+              "slug": "keyword-worldchampion",
+              "path": "/keyword/world champion",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 72,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/5d973c5fcb47f6ddfe654d84a9b6e572"
+              }
+            },
+            {
+              "id": "51d6f076a171d4f962abf2d6cabfb1ef",
+              "slug": "keyword-humanlife",
+              "path": "/keyword/human life",
+              "provider": "methode",
+              "providerSource": "otca",
+              "relevancy": 70,
+              "frequency": 1,
+              "classification": "auto",
+              "link": {
+                "self": "https://content.api.news/v3/categories/51d6f076a171d4f962abf2d6cabfb1ef"
+              }
+            }
+          ]
+        },
+        "keywords": [
+          "Stan Grant",
+          "Kelly Slater",
+          "New South Wales",
+          "retirement press conference",
+          "Australian sporting",
+          "winning world titles",
+          "heartfelt press conference",
+          "short-lived rugby league",
+          "Oceania",
+          "surfing legend",
+          "shock apology",
+          "Boxing news",
+          "terrorist attacks",
+          "Australian sporting icons",
+          "Justin Langer",
+          "world champion",
+          "Australia and New Zealand",
+          "human life",
+          "press conferenceBoxing",
+          "sporting endeavour",
+          "mobile phone",
+          "Australian Michael Zerafa",
+          "media call",
+          "Australia",
+          "press conference",
+          "Anthony Mundine",
+          "Sydney",
+          "two-sport sensation"
+        ],
+        "revision": {
+          "major": 1616563716000,
+          "minor": 0
+        },
+        "rightsMetadata": {
+          "originatedSource": "news.com.au"
+        },
+        "target": {
+          "domainLink": {
+            "news.com.au": {
+              "link": "https://www.news.com.au/sport/boxing/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "perthnow.com.au": {
+              "link": "https://www.perthnow.com.au/sport/boxing-mma/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "dailytelegraph.com.au": {
+              "link": "https://www.dailytelegraph.com.au/sport/boxing-mma/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "heraldsun.com.au": {
+              "link": "https://www.heraldsun.com.au/sport/boxing-mma/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "couriermail.com.au": {
+              "link": "https://www.couriermail.com.au/sport/boxing-mma/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "adelaidenow.com.au": {
+              "link": "https://www.adelaidenow.com.au/sport/boxing-mma/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "geelongadvertiser.com.au": {
+              "link": "https://www.geelongadvertiser.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "cairnspost.com.au": {
+              "link": "https://www.cairnspost.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "ntnews.com.au": {
+              "link": "https://www.ntnews.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "weeklytimesnow.com.au": {
+              "link": "https://www.weeklytimesnow.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "goldcoastbulletin.com.au": {
+              "link": "https://www.goldcoastbulletin.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "themercury.com.au": {
+              "link": "https://www.themercury.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "townsvillebulletin.com.au": {
+              "link": "https://www.townsvillebulletin.com.au/affiliates/kayo/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            },
+            "thechronicle.com.au": {
+              "link": "https://www.thechronicle.com.au/sport/anthony-mundines-shock-apology-for-pretty-dumb-remarks/news-story/e741f65b841264343046d5dc4cc76acf"
+            }
+          },
+          "domains": [
+            "heraldsun.com.au",
+            "themercury.com.au",
+            "adelaidenow.com.au",
+            "goldcoastbulletin.com.au",
+            "dailytelegraph.com.au",
+            "perthnow.com.au",
+            "ntnews.com.au",
+            "news.com.au",
+            "geelongadvertiser.com.au",
+            "thechronicle.com.au",
+            "cairnspost.com.au",
+            "weeklytimesnow.com.au",
+            "townsvillebulletin.com.au",
+            "couriermail.com.au"
+          ],
+          "sections": [
+            {
+              "id": "1226506788234",
+              "path": "/section/main/newscorpaustralia.com/Web/NewsNetwork/Sport/Boxing/MMA",
+              "slug": "section-main-newscorpaustraliacom-web-newsnetwork-sport-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226506788234"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "a83b756bd07a011f8748a73fcfdb876f",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Affiliates/Kayo",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/a83b756bd07a011f8748a73fcfdb876f"
+              },
+              "domain": "NewsNetwork"
+            },
+            {
+              "id": "1226487037076",
+              "path": "/section/aux/newscorpaustralia.com/Web/NewsNetwork/Sport",
+              "slug": "section-aux-newscorpaustraliacom-web-newsnetwork-sport",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226487037076"
+              },
+              "domain": "NewsNetwork"
+            }
+          ],
+          "displays": [
+            {
+              "id": "1226349778966",
+              "path": "/display/news.com.au/Sport/Boxing/MMA",
+              "slug": "display-newscomau-sport-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226349778966"
+              },
+              "dominant": true,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1226600307215",
+              "path": "/display/perthnow.com.au/Sport news and galleries/Boxing/MMA",
+              "slug": "display-perthnowcomau-sportnewsandgalleries-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226600307215"
+              },
+              "dominant": true,
+              "domain": "perthnow.com.au"
+            },
+            {
+              "id": "1226620935971",
+              "path": "/display/dailytelegraph.com.au/Sport news and galleries/Boxing/MMA",
+              "slug": "display-dailytelegraphcomau-sportnewsandgalleries-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226620935971"
+              },
+              "dominant": true,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "1226621641243",
+              "path": "/display/heraldsun.com.au/Sport news and galleries/Boxing/MMA",
+              "slug": "display-heraldsuncomau-sportnewsandgalleries-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226621641243"
+              },
+              "dominant": true,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "1226647094634",
+              "path": "/display/couriermail.com.au/Sport news and galleries/Boxing/MMA",
+              "slug": "display-couriermailcomau-sportnewsandgalleries-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226647094634"
+              },
+              "dominant": true,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "1226647094636",
+              "path": "/display/adelaidenow.com.au/Sport news and galleries/Boxing/MMA",
+              "slug": "display-adelaidenowcomau-sportnewsandgalleries-boxing-mma",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226647094636"
+              },
+              "dominant": true,
+              "domain": "adelaidenow.com.au"
+            },
+            {
+              "id": "5fcaa8058a5ff53ed09c998ce1242cd4",
+              "path": "/display/geelongadvertiser.com.au/Affiliates/Kayo",
+              "slug": "display-geelongadvertisercomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/5fcaa8058a5ff53ed09c998ce1242cd4"
+              },
+              "dominant": true,
+              "domain": "geelongadvertiser.com.au"
+            },
+            {
+              "id": "62839461fb862a7d8c226e39dd6ed4a6",
+              "path": "/display/cairnspost.com.au/Affiliates/Kayo",
+              "slug": "display-cairnspostcomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/62839461fb862a7d8c226e39dd6ed4a6"
+              },
+              "dominant": true,
+              "domain": "cairnspost.com.au"
+            },
+            {
+              "id": "8d96bcb7df6a04638b3dbce7d15fecad",
+              "path": "/display/ntnews.com.au/Affiliates/Kayo",
+              "slug": "display-ntnewscomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/8d96bcb7df6a04638b3dbce7d15fecad"
+              },
+              "dominant": true,
+              "domain": "ntnews.com.au"
+            },
+            {
+              "id": "92a364822636a7afa11e8400e0990aa1",
+              "path": "/display/weeklytimesnow.com.au/Affiliates/Kayo",
+              "slug": "display-weeklytimesnowcomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/92a364822636a7afa11e8400e0990aa1"
+              },
+              "dominant": true,
+              "domain": "weeklytimesnow.com.au"
+            },
+            {
+              "id": "b15c8ab0ce21994506590768a1c93ff2",
+              "path": "/display/goldcoastbulletin.com.au/Affiliates/Kayo",
+              "slug": "display-goldcoastbulletincomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/b15c8ab0ce21994506590768a1c93ff2"
+              },
+              "dominant": true,
+              "domain": "goldcoastbulletin.com.au"
+            },
+            {
+              "id": "dfc4798593d82e9e69c1f31ed48223e0",
+              "path": "/display/themercury.com.au/Affiliates/Kayo",
+              "slug": "display-themercurycomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/dfc4798593d82e9e69c1f31ed48223e0"
+              },
+              "dominant": true,
+              "domain": "themercury.com.au"
+            },
+            {
+              "id": "ee6ab62948cad4e10597dbded7a604c3",
+              "path": "/display/townsvillebulletin.com.au/Affiliates/Kayo",
+              "slug": "display-townsvillebulletincomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/ee6ab62948cad4e10597dbded7a604c3"
+              },
+              "dominant": true,
+              "domain": "townsvillebulletin.com.au"
+            },
+            {
+              "id": "312055c47e68b892c1d59bd9503d4dd7",
+              "path": "/display/thechronicle.com.au/Sport news and galleries",
+              "slug": "display-thechroniclecomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/312055c47e68b892c1d59bd9503d4dd7"
+              },
+              "dominant": true,
+              "domain": "thechronicle.com.au"
+            },
+            {
+              "id": "509d0c4de8712c2df909c98d216a2aab",
+              "path": "/display/dailytelegraph.com.au/Affiliates/Kayo",
+              "slug": "display-dailytelegraphcomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/509d0c4de8712c2df909c98d216a2aab"
+              },
+              "dominant": false,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "1226620933253",
+              "path": "/display/dailytelegraph.com.au/Sport news and galleries",
+              "slug": "display-dailytelegraphcomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226620933253"
+              },
+              "dominant": false,
+              "domain": "dailytelegraph.com.au"
+            },
+            {
+              "id": "1227974998773",
+              "path": "/display/townsvillebulletin.com.au/Sport news and galleries",
+              "slug": "display-townsvillebulletincomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227974998773"
+              },
+              "dominant": false,
+              "domain": "townsvillebulletin.com.au"
+            },
+            {
+              "id": "1227796732399",
+              "path": "/display/themercury.com.au/Sport news and galleries",
+              "slug": "display-themercurycomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227796732399"
+              },
+              "dominant": false,
+              "domain": "themercury.com.au"
+            },
+            {
+              "id": "1226600307173",
+              "path": "/display/perthnow.com.au/Sport news and galleries",
+              "slug": "display-perthnowcomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226600307173"
+              },
+              "dominant": false,
+              "domain": "perthnow.com.au"
+            },
+            {
+              "id": "1227974998774",
+              "path": "/display/geelongadvertiser.com.au/Sport news and galleries",
+              "slug": "display-geelongadvertisercomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227974998774"
+              },
+              "dominant": false,
+              "domain": "geelongadvertiser.com.au"
+            },
+            {
+              "id": "1227974993877",
+              "path": "/display/cairnspost.com.au/Sport news and galleries",
+              "slug": "display-cairnspostcomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227974993877"
+              },
+              "dominant": false,
+              "domain": "cairnspost.com.au"
+            },
+            {
+              "id": "1d030bb354a2b7722724cc60a64c6dce",
+              "path": "/display/heraldsun.com.au/Affiliates/Kayo",
+              "slug": "display-heraldsuncomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1d030bb354a2b7722724cc60a64c6dce"
+              },
+              "dominant": false,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "1226621617230",
+              "path": "/display/heraldsun.com.au/Sport news and galleries",
+              "slug": "display-heraldsuncomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226621617230"
+              },
+              "dominant": false,
+              "domain": "heraldsun.com.au"
+            },
+            {
+              "id": "edac483fcb1f74452568aa3e3f1a07a9",
+              "path": "/display/news.com.au/Affiliates/Kayo",
+              "slug": "display-newscomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/edac483fcb1f74452568aa3e3f1a07a9"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "1226177573029",
+              "path": "/display/news.com.au/Sport",
+              "slug": "display-newscomau-sport",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226177573029"
+              },
+              "dominant": false,
+              "domain": "news.com.au"
+            },
+            {
+              "id": "3649cdbcd135f74d001e0e36121920c0",
+              "path": "/display/adelaidenow.com.au/Affiliates/Kayo",
+              "slug": "display-adelaidenowcomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/3649cdbcd135f74d001e0e36121920c0"
+              },
+              "dominant": false,
+              "domain": "adelaidenow.com.au"
+            },
+            {
+              "id": "1226633804010",
+              "path": "/display/adelaidenow.com.au/Sport news and galleries",
+              "slug": "display-adelaidenowcomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226633804010"
+              },
+              "dominant": false,
+              "domain": "adelaidenow.com.au"
+            },
+            {
+              "id": "1227960774948",
+              "path": "/display/goldcoastbulletin.com.au/Sport news and galleries",
+              "slug": "display-goldcoastbulletincomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227960774948"
+              },
+              "dominant": false,
+              "domain": "goldcoastbulletin.com.au"
+            },
+            {
+              "id": "713f62d204b22b3e349aebb9d938142b",
+              "path": "/display/couriermail.com.au/Affiliates/Kayo",
+              "slug": "display-couriermailcomau-affiliates-kayo",
+              "link": {
+                "self": "https://content.api.news/v3/sections/713f62d204b22b3e349aebb9d938142b"
+              },
+              "dominant": false,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "1226633804011",
+              "path": "/display/couriermail.com.au/Sport news and galleries",
+              "slug": "display-couriermailcomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1226633804011"
+              },
+              "dominant": false,
+              "domain": "couriermail.com.au"
+            },
+            {
+              "id": "1227960774949",
+              "path": "/display/ntnews.com.au/Sport news and galleries",
+              "slug": "display-ntnewscomau-sportnewsandgalleries",
+              "link": {
+                "self": "https://content.api.news/v3/sections/1227960774949"
+              },
+              "dominant": false,
+              "domain": "ntnews.com.au"
+            }
+          ],
+          "urlTitle": "anthony-mundines-shock-apology-for-pretty-dumb-remarks"
+        },
+        "authors": [
+          {
+            "link": {
+              "self": "https://content.api.news/v3/authors/d957f5bd6b539c131349f0036232e062"
+            },
+            "name": "Nic Savage",
+            "providerId": "sLUn2gO8q6ExNijUQivL",
+            "profileId": "d957f5bd6b539c131349f0036232e062",
+            "email": "nicsavage2@gmail.com",
+            "type": "author"
+          }
+        ],
+        "accessType": "free",
+        "channel": "none",
+        "autoTranslate": false,
+        "headline": {
+          "default": "Mundine apologises for ‘pretty dumb’ claim"
+        },
+        "standfirst": {
+          "default": "<p>Australian sporting great Anthony Mundine has publicly apologised for his “pretty dumb” remarks about the September 11 terrorist attacks.</p>"
+        },
+        "related": {
+          "thumbnail": {
+            "default": [
+              "42ce5f57805021724eb88b55cc08dafa",
+              "f23bdcc341c9b88c0956ec9f249dc337",
+              "409b03e1010715aa71badfa46c0a71b2",
+              "ff47e50a5087b73be6b353c63f45ca86",
+              "b11e4c356d98368bf2dc95669d160d83",
+              "f11c3e83499001c942eed06b47589bdf"
+            ]
+          },
+          "primary": {
+            "default": [
+              "7cdd0407aaf36de61a334310a13bae65",
+              "5c83f5d61a40ce98de82184ff4b32e16"
+            ]
+          }
+        },
+        "references": {
+          "42ce5f57805021724eb88b55cc08dafa": {
+            "id": "42ce5f57805021724eb88b55cc08dafa",
+            "type": "image",
+            "aspectRatio": "4:3",
+            "width": 100,
+            "height": 75,
+            "link": {
+              "self": "https://content.api.news/v3/images/42ce5f57805021724eb88b55cc08dafa",
+              "media": "https://content.api.news/v3/images/bin/42ce5f57805021724eb88b55cc08dafa"
+            }
+          },
+          "f23bdcc341c9b88c0956ec9f249dc337": {
+            "id": "f23bdcc341c9b88c0956ec9f249dc337",
+            "type": "image",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/f23bdcc341c9b88c0956ec9f249dc337",
+              "media": "https://content.api.news/v3/images/bin/f23bdcc341c9b88c0956ec9f249dc337"
+            }
+          },
+          "409b03e1010715aa71badfa46c0a71b2": {
+            "id": "409b03e1010715aa71badfa46c0a71b2",
+            "type": "image",
+            "aspectRatio": "3:4",
+            "width": 768,
+            "height": 1024,
+            "link": {
+              "self": "https://content.api.news/v3/images/409b03e1010715aa71badfa46c0a71b2",
+              "media": "https://content.api.news/v3/images/bin/409b03e1010715aa71badfa46c0a71b2"
+            }
+          },
+          "ff47e50a5087b73be6b353c63f45ca86": {
+            "id": "ff47e50a5087b73be6b353c63f45ca86",
+            "type": "image",
+            "aspectRatio": "16:9",
+            "width": 1280,
+            "height": 720,
+            "link": {
+              "self": "https://content.api.news/v3/images/ff47e50a5087b73be6b353c63f45ca86",
+              "media": "https://content.api.news/v3/images/bin/ff47e50a5087b73be6b353c63f45ca86"
+            }
+          },
+          "b11e4c356d98368bf2dc95669d160d83": {
+            "id": "b11e4c356d98368bf2dc95669d160d83",
+            "type": "image",
+            "aspectRatio": "21:9",
+            "width": 1900,
+            "height": 815,
+            "link": {
+              "self": "https://content.api.news/v3/images/b11e4c356d98368bf2dc95669d160d83",
+              "media": "https://content.api.news/v3/images/bin/b11e4c356d98368bf2dc95669d160d83"
+            }
+          },
+          "f11c3e83499001c942eed06b47589bdf": {
+            "id": "f11c3e83499001c942eed06b47589bdf",
+            "type": "image",
+            "aspectRatio": "16:9",
+            "width": 149,
+            "height": 86,
+            "link": {
+              "self": "https://content.api.news/v3/images/f11c3e83499001c942eed06b47589bdf",
+              "media": "https://content.api.news/v3/images/bin/f11c3e83499001c942eed06b47589bdf"
+            }
+          },
+          "7cdd0407aaf36de61a334310a13bae65": {
+            "id": "7cdd0407aaf36de61a334310a13bae65",
+            "type": "video",
+            "captionOverride": "Boxing: Following a glittering boxing and rugby league career, Anthony Mundine has officially announced his retirement in a heartfelt press conference.",
+            "titleOverride": "Anthony Mundine retirement full press conference",
+            "link": {
+              "self": "https://content.api.news/v3/videos/7cdd0407aaf36de61a334310a13bae65"
+            }
+          },
+          "5c83f5d61a40ce98de82184ff4b32e16": {
+            "id": "5c83f5d61a40ce98de82184ff4b32e16",
+            "type": "image",
+            "captionOverride": "Anthony Mundine talks to the media.",
+            "aspectRatio": "16:9",
+            "width": 1280,
+            "height": 720,
+            "link": {
+              "self": "https://content.api.news/v3/images/5c83f5d61a40ce98de82184ff4b32e16",
+              "media": "https://content.api.news/v3/images/bin/5c83f5d61a40ce98de82184ff4b32e16"
+            }
+          },
+          "7f24b3f354924cc7e546f5b493a62c27": {
+            "id": "7f24b3f354924cc7e546f5b493a62c27",
+            "type": "custom",
+            "subtype": "html",
+            "captionOverride": "NED-3294-NCA-App-Banner",
+            "link": {
+              "self": "https://content.api.news/v3/customs/7f24b3f354924cc7e546f5b493a62c27"
+            }
+          },
+          "bd3eee02310fb35e238ddf4be0b00bda": {
+            "id": "bd3eee02310fb35e238ddf4be0b00bda",
+            "type": "image",
+            "captionOverride": "Anthony Mundine poses during the weight in during a press conference at Melbourne Pavillion.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/bd3eee02310fb35e238ddf4be0b00bda",
+              "media": "https://content.api.news/v3/images/bin/bd3eee02310fb35e238ddf4be0b00bda"
+            }
+          },
+          "87f984e82e569521b64cb68abef5d9a9": {
+            "id": "87f984e82e569521b64cb68abef5d9a9",
+            "type": "image",
+            "captionOverride": "Michael Zerafa lands a punch to Anthony Mundine.",
+            "aspectRatio": "4:3",
+            "width": 1024,
+            "height": 768,
+            "link": {
+              "self": "https://content.api.news/v3/images/87f984e82e569521b64cb68abef5d9a9",
+              "media": "https://content.api.news/v3/images/bin/87f984e82e569521b64cb68abef5d9a9"
+            }
+          }
+        },
+        "kicker": {
+          "default": "Boxing news"
+        },
+        "intro": {
+          "default": "<p>Australian sporting great Anthony Mundine has apologised for controversial remarks on the 9/11 terrorist attacks, where he claimed America “brought it upon themselves”.</p>"
+        },
+        "seoOwner": {
+          "displayName": "news.com.au",
+          "domain": "news.com.au"
+        },
+        "seoTitle": "Boxing news 2021: Anthony Mundine, 9/11 comments, apology, retirement",
+        "socialHeadline": {
+          "default": "Mundine apologises for ‘pretty dumb’ claim"
+        },
+        "commentsAllowed": {
+          "default": false
+        },
+        "commentsShown": {
+          "default": false
+        },
+        "body": {
+          "default": "<p><a href=\"https://www.news.com.au/sport/boxing/kelly-slater-gatecrashed-anthony-mundines-retirement-press-conference/news-story/e5e2ae342e3eed52df2d538fe02e0573\" target=\"_blank\">Officially farewelling his sporting career at the Cruise Bar in Sydney’s Circular Quay</a> on Wednesday, Mundine spoke openly about the highs and lows of his time in the spotlight.</p><p>He was a two-sport sensation who sparkled in a short-lived rugby league career before winning world titles in boxing.</p><p><i><b>Watch Boxing Live &amp; On-Demand on Kayo. Selected international fights, classic bouts and more. New to Kayo? <a href=\"https://servedby.flashtalking.com/click/7/147290;5439997;50126;211;0/?ft_width=1&amp;ft_height=1&amp;gdpr=${GDPR}&amp;gdpr_consent=${GDPR_CONSENT_78}&amp;us_privacy=${US_PRIVACY}&amp;url=https://www.kayosports.com.au/?marketing=default&amp;extcamp=ncaeditoriallinkboxing-edt-new-lnk-awr-grc-box-kyo&amp;channel=nca&amp;campaign=launch&amp;voucher=\" target=\"_blank\">Try 14-Days Free Now &gt;</a></b></i></p><p>But after converting to Islam in the late 1990s, <a href=\"https://www.news.com.au/sport/boxing/highs-and-lows-of-anthony-mundines-wild-career/news-story/46b9dea2e41efec3bed4ccf4bb147265\" target=\"_blank\">Mundine faced a tsunami of backlash for infamous remarks</a> about the September 11 attacks.</p><p>“They call it an act of terrorism, but if you can understand religion, and our way of life, it’s not about terrorism,” Mundine said in October 2001.</p><p>“It’s about fighting for God’s law, and America’s brought it upon themselves.”</p><p>Drawing attention to comments on Wednesday, Mundine said: “A lot of the media portrayed me to be for the killings. I want to put that on record, that there was no way for the killings.</p><p>“Taking one human life is like taking the whole of humanity to me. I feel like I was crucified for that — probably rightly so. I said it raw and pretty dumb at the time.</p><p>“If I offended anybody in my career, honestly, I’m sincerely sorry.</p><p>“Please find it in your heart to forgive me. I’m a changed man, I’m a different type of cat.</p><p>“As you get older, you get more mellow. God bless everybody. Thank you.”</p><p channel=\"Web,Tablet\"><a class=\"capi-image\" capiid=\"bd3eee02310fb35e238ddf4be0b00bda\"></a></p><p>Mundine’s impact on the sporting world was highlighted when surfing legend Kelly Slater called in the middle of Wednesday’s retirement press conference.</p><p>The 45-year-old was interrupted by a video call from the 11-time world champion.</p><p>“Hey bra,” Mundine said, after being handed a mobile phone. “It’s Kelly Slater, bra.”</p><p>Mundine was quick to joke about a third sporting endeavour.</p><p>“Teach me how to surf,” he told Slater. “I might become a surfer.”</p><p>Slater laughed, saying: “Well yeah, I think you need a third career, you’ve been able to switch over pretty easily in the past.</p><p>“Anyways, we’re just proud of you. I just wanted to call and say congratulations and all the best for the next endeavour and all the happiness to you and your family. You’re a legend.”</p><p>Australian sporting icons Matty Johns, Stan Grant, Lawrie Daley, Gorden Tallis, Justin Langer and Michael O’Loughlin also paid tribute to Mundine at the media call.</p><p channel=\"Web,Tablet\"><a class=\"capi-image\" capiid=\"87f984e82e569521b64cb68abef5d9a9\"></a></p><p>Mundine announced his retirement after <a href=\"https://www.news.com.au/sport/boxing/anthony-mundine-legacy-in-flames-after-cataclysmic-final-fight/news-story/b5dce58c6f1c8190a8d82c44b469ee78\" target=\"_blank\">losing to fellow Australian Michael Zerafa via first-round knockout</a> earlier this month.</p><p>He hangs up his gloves with a career record of 48-11, including 28 KOs.</p><p>Mundine also played 134 NRL games, in which he scored 59 tries. He represented New South Wales in the 1999 State of Origin series and the NRL Grand Final with the Dragons that same year.</p><p channel=\"Web,Tablet\"><a capiid=\"7f24b3f354924cc7e546f5b493a62c27\" class=\"capi-webframe\">NED-3294-NCA-App-Banner</a></p><p/><p/>"
+        },
+        "extendedHeadline": {
+          "default": "Anthony Mundine’s shock apology for ‘pretty dumb’ September 11 remarks"
+        },
+        "schemaVersion": "v3.0"
+      }  
+    ],
+    "totalHits": [1599491],
+    "hits": [50],
+    "size": [50],
+    "page": [1]
+}

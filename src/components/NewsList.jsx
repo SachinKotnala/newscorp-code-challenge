@@ -42,7 +42,7 @@ const NewsList = () => {
         const link = news.link.canonical;
 
         return (
-          <Col xs={24} sm={12} md={8} style={{ marginTop: "50px" }}>
+          <Col xs={24} sm={12} md={8} style={{ marginTop: "50px" }} key={news.id}>
             <NewsTile
               key={news.id}
               date={date}

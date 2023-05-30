@@ -23,8 +23,12 @@ const NewsTile = ({ id, date, headline, image, standfirst, link }) => {
         onClick={() => window.open(link, "_blank")} 
       >
       <Meta
-            title={<div style={{ fontSize: '16px', whiteSpace: 'normal' }}>{headline}</div>}
-            description={`Published on: ${formatDate(date.live)}`}
+            title={<div data-testid='test-headline' style={{ fontSize: '16px', whiteSpace: 'normal' }}>{headline}</div>}
+            description={
+                <div data-testid='test-description'>
+                  Published on: {formatDate(date.live)}
+                </div>
+              }
             style={{ fontSize: '12px' }}
           />
 
