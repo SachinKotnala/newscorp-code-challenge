@@ -29,7 +29,6 @@ const NewsList = () => {
       <ErrorMessage error={`News could not be retrieved: ${error.message}`} />
     );
   }
-  debugger;
   // if loading & error are passed - data will be available
   if (!data) throw new Error("we should not reach this");
 
@@ -55,17 +54,19 @@ const NewsList = () => {
           </Col>
         );
       })}
-      <Pagination
-        current={currentPage}
-        pageSize={pageSize}
-        total={data.totalLength}
-        onChange={handlePageChange}
-        showSizeChanger
-        pageSizeOptions={["5", "10", "20"]}
-        showTotal={(total, range) =>
-          `${range[0]}-${range[1]} of ${total} items`
-        }
-      />
+      <div
+        style={{ display: "flex", justifyContent: "center", marginTop: "50px" ,width:"100%"}}
+      >
+        <Pagination
+          current={currentPage}
+          pageSize={pageSize}
+          total={data.totalLength}
+          onChange={handlePageChange}
+          showTotal={(total, range) =>
+            `${range[0]}-${range[1]} of ${total} articles`
+          }
+        />
+      </div>
     </Row>
   );
 };
